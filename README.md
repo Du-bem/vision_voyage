@@ -12,12 +12,12 @@ Personal journey documenting OpenCV experiments and projects for autonomous vehi
 
 ## 📚 Learning Path
 
-- [ ] Basic Image Operations
+- [x] Basic Image Operations
   - Image loading and display
   - Color space conversions
   - Basic image transformations
 
-- [ ] Image Processing Fundamentals
+- [x] Image Processing Fundamentals
   - Filtering and smoothing
   - Edge detection
   - Thresholding techniques
